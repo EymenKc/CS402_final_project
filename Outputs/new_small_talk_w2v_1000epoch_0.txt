@@ -1,0 +1,115 @@
+Batch Size: 16
+Learning Rate: 0.001
+Number of Epochs: 1000
+Chosen Label: small-talk
+Device: cuda
+Fold:  1
+Epoch [0/1000], Loss: 0.6890
+Epoch [50/1000], Loss: 0.2242
+Epoch [100/1000], Loss: 0.2714
+Epoch [150/1000], Loss: 0.2133
+Epoch [200/1000], Loss: 0.1144
+Epoch [250/1000], Loss: 0.2728
+Epoch [300/1000], Loss: 0.0132
+Epoch [350/1000], Loss: 0.0399
+Epoch [400/1000], Loss: 0.0014
+Epoch [450/1000], Loss: 0.0022
+Epoch [500/1000], Loss: 0.0147
+Epoch [550/1000], Loss: 0.0116
+Epoch [600/1000], Loss: 0.0030
+Epoch [650/1000], Loss: 0.0184
+Epoch [700/1000], Loss: 0.0064
+Epoch [750/1000], Loss: 0.0010
+Epoch [800/1000], Loss: 0.0000
+Epoch [850/1000], Loss: 0.0007
+Epoch [900/1000], Loss: 0.9269
+Epoch [950/1000], Loss: 0.0139
+Average F1 Score: 0.7418790749810761, Average Accuracy: 0.8348214285714286
+Fold:  2
+Epoch [0/1000], Loss: 0.6664
+Epoch [50/1000], Loss: 0.7842
+Epoch [100/1000], Loss: 0.1628
+Epoch [150/1000], Loss: 0.2381
+Epoch [200/1000], Loss: 0.1905
+Epoch [250/1000], Loss: 0.0896
+Epoch [300/1000], Loss: 0.1068
+Epoch [350/1000], Loss: 0.0027
+Epoch [400/1000], Loss: 0.0083
+Epoch [450/1000], Loss: 0.0022
+Epoch [500/1000], Loss: 0.0018
+Epoch [550/1000], Loss: 0.0050
+Epoch [600/1000], Loss: 0.0083
+Epoch [650/1000], Loss: 0.0072
+Epoch [700/1000], Loss: 0.0077
+Epoch [750/1000], Loss: 0.0026
+Epoch [800/1000], Loss: 0.0003
+Epoch [850/1000], Loss: 0.0013
+Epoch [900/1000], Loss: 0.0014
+Epoch [950/1000], Loss: 0.0000
+Average F1 Score: 0.7365196517763877, Average Accuracy: 0.8494350282485876
+Fold:  3
+Epoch [0/1000], Loss: 0.6739
+Epoch [50/1000], Loss: 0.3782
+Epoch [100/1000], Loss: 0.7104
+Epoch [150/1000], Loss: 0.2553
+Epoch [200/1000], Loss: 0.3122
+Epoch [250/1000], Loss: 0.1884
+Epoch [300/1000], Loss: 0.1591
+Epoch [350/1000], Loss: 0.0112
+Epoch [400/1000], Loss: 0.0007
+Epoch [450/1000], Loss: 0.0014
+Epoch [500/1000], Loss: 0.0020
+Epoch [550/1000], Loss: 0.0276
+Epoch [600/1000], Loss: 0.0005
+Epoch [650/1000], Loss: 0.0001
+Epoch [700/1000], Loss: 0.0002
+Epoch [750/1000], Loss: 0.0007
+Epoch [800/1000], Loss: 0.0009
+Epoch [850/1000], Loss: 0.0002
+Epoch [900/1000], Loss: 0.0007
+Epoch [950/1000], Loss: 0.0019
+Average F1 Score: 0.7733939329683249, Average Accuracy: 0.8588362068965517
+Fold:  4
+Epoch [0/1000], Loss: 0.6972
+Epoch [50/1000], Loss: 0.0747
+Epoch [100/1000], Loss: 0.4145
+Epoch [150/1000], Loss: 0.0181
+Epoch [200/1000], Loss: 0.0884
+Epoch [250/1000], Loss: 0.0875
+Epoch [300/1000], Loss: 0.0662
+Epoch [350/1000], Loss: 0.0000
+Epoch [400/1000], Loss: 0.0515
+Epoch [450/1000], Loss: 0.0003
+Epoch [500/1000], Loss: 0.0030
+Epoch [550/1000], Loss: 0.0002
+Epoch [600/1000], Loss: 0.0020
+Epoch [650/1000], Loss: 0.0466
+Epoch [700/1000], Loss: 0.0000
+Epoch [750/1000], Loss: 0.0001
+Epoch [800/1000], Loss: 0.0017
+Epoch [850/1000], Loss: 0.0001
+Epoch [900/1000], Loss: 0.0000
+Epoch [950/1000], Loss: 0.0000
+Average F1 Score: 0.7214915677122756, Average Accuracy: 0.8516949152542372
+Fold:  5
+Epoch [0/1000], Loss: 0.6319
+Epoch [50/1000], Loss: 0.4846
+Epoch [100/1000], Loss: 0.3140
+Epoch [150/1000], Loss: 0.1207
+Epoch [200/1000], Loss: 0.5982
+Epoch [250/1000], Loss: 0.2692
+Epoch [300/1000], Loss: 0.0864
+Epoch [350/1000], Loss: 0.0022
+Epoch [400/1000], Loss: 0.2534
+Epoch [450/1000], Loss: 0.0069
+Epoch [500/1000], Loss: 0.0327
+Epoch [550/1000], Loss: 0.2942
+Epoch [600/1000], Loss: 0.3148
+Epoch [650/1000], Loss: 0.0023
+Epoch [700/1000], Loss: 0.0004
+Epoch [750/1000], Loss: 0.0007
+Epoch [800/1000], Loss: 0.0001
+Epoch [850/1000], Loss: 0.0008
+Epoch [900/1000], Loss: 0.0015
+Epoch [950/1000], Loss: 0.0049
+Average F1 Score: 0.7589677300517774, Average Accuracy: 0.8572994987468672

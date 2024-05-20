@@ -1,0 +1,65 @@
+Batch Size: 16
+Learning Rate: 0.001
+Number of Epochs: 500
+Chosen Label: small-talk
+Device: cuda
+Fold:  1
+Epoch [0/500], Loss: 0.6884
+Epoch [50/500], Loss: 0.6632
+Epoch [100/500], Loss: 0.2367
+Epoch [150/500], Loss: 0.2644
+Epoch [200/500], Loss: 0.1778
+Epoch [250/500], Loss: 0.2811
+Epoch [300/500], Loss: 0.2521
+Epoch [350/500], Loss: 0.2242
+Epoch [400/500], Loss: 0.2610
+Epoch [450/500], Loss: 0.2304
+Average F1 Score: 0.4684062773521755, Average Accuracy: 0.8680555555555557
+Fold:  2
+Epoch [0/500], Loss: 0.6962
+Epoch [50/500], Loss: 0.6640
+Epoch [100/500], Loss: 0.2992
+Epoch [150/500], Loss: 0.2875
+Epoch [200/500], Loss: 0.2889
+Epoch [250/500], Loss: 0.2242
+Epoch [300/500], Loss: 0.2738
+Epoch [350/500], Loss: 0.3174
+Epoch [400/500], Loss: 0.2192
+Epoch [450/500], Loss: 0.2142
+Average F1 Score: 0.6273633359157853, Average Accuracy: 0.9107638888888889
+Fold:  3
+Epoch [0/500], Loss: 0.6872
+Epoch [50/500], Loss: 0.6701
+Epoch [100/500], Loss: 0.3498
+Epoch [150/500], Loss: 0.2009
+Epoch [200/500], Loss: 0.3224
+Epoch [250/500], Loss: 0.1696
+Epoch [300/500], Loss: 0.2000
+Epoch [350/500], Loss: 0.1786
+Epoch [400/500], Loss: 0.2283
+Epoch [450/500], Loss: 0.2625
+Average F1 Score: 0.5470172399064909, Average Accuracy: 0.8787847222222223
+Fold:  4
+Epoch [0/500], Loss: 0.6900
+Epoch [50/500], Loss: 0.6445
+Epoch [100/500], Loss: 0.2802
+Epoch [150/500], Loss: 0.2390
+Epoch [200/500], Loss: 0.2232
+Epoch [250/500], Loss: 0.3210
+Epoch [300/500], Loss: 0.2058
+Epoch [350/500], Loss: 0.2647
+Epoch [400/500], Loss: 0.2613
+Epoch [450/500], Loss: 0.2152
+Average F1 Score: 0.5878192013881165, Average Accuracy: 0.8890625
+Fold:  5
+Epoch [0/500], Loss: 0.6929
+Epoch [50/500], Loss: 0.6696
+Epoch [100/500], Loss: 0.2528
+Epoch [150/500], Loss: 0.2603
+Epoch [200/500], Loss: 0.1755
+Epoch [250/500], Loss: 0.1937
+Epoch [300/500], Loss: 0.2302
+Epoch [350/500], Loss: 0.2568
+Epoch [400/500], Loss: 0.2644
+Epoch [450/500], Loss: 0.2486
+Average F1 Score: 0.5968357806261423, Average Accuracy: 0.8871527777777779

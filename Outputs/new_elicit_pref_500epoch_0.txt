@@ -1,0 +1,65 @@
+Batch Size: 16
+Learning Rate: 0.001
+Number of Epochs: 500
+Chosen Label: elicit-pref
+Device: cuda
+Fold:  1
+Epoch [0/500], Loss: 0.6070
+Epoch [50/500], Loss: 0.0942
+Epoch [100/500], Loss: 0.5557
+Epoch [150/500], Loss: 0.4296
+Epoch [200/500], Loss: 0.0924
+Epoch [250/500], Loss: 0.0775
+Epoch [300/500], Loss: 0.1468
+Epoch [350/500], Loss: 0.3239
+Epoch [400/500], Loss: 0.5952
+Epoch [450/500], Loss: 0.0822
+Average F1 Score: 0.6479300507744811, Average Accuracy: 0.9196428571428571
+Fold:  2
+Epoch [0/500], Loss: 0.6380
+Epoch [50/500], Loss: 0.0503
+Epoch [100/500], Loss: 0.0636
+Epoch [150/500], Loss: 0.0775
+Epoch [200/500], Loss: 0.1086
+Epoch [250/500], Loss: 0.1022
+Epoch [300/500], Loss: 0.0749
+Epoch [350/500], Loss: 0.4893
+Epoch [400/500], Loss: 0.0772
+Epoch [450/500], Loss: 0.0964
+Average F1 Score: 0.6067070591608215, Average Accuracy: 0.8961864406779662
+Fold:  3
+Epoch [0/500], Loss: 0.6476
+Epoch [50/500], Loss: 0.2543
+Epoch [100/500], Loss: 0.3739
+Epoch [150/500], Loss: 0.2304
+Epoch [200/500], Loss: 0.3279
+Epoch [250/500], Loss: 0.3834
+Epoch [300/500], Loss: 0.3028
+Epoch [350/500], Loss: 0.1934
+Epoch [400/500], Loss: 0.4828
+Epoch [450/500], Loss: 0.0827
+Average F1 Score: 0.6608614149329889, Average Accuracy: 0.9256465517241379
+Fold:  4
+Epoch [0/500], Loss: 0.5901
+Epoch [50/500], Loss: 0.0562
+Epoch [100/500], Loss: 0.1317
+Epoch [150/500], Loss: 0.1056
+Epoch [200/500], Loss: 0.0345
+Epoch [250/500], Loss: 0.0951
+Epoch [300/500], Loss: 0.0498
+Epoch [350/500], Loss: 0.1169
+Epoch [400/500], Loss: 0.0974
+Epoch [450/500], Loss: 0.0153
+Average F1 Score: 0.6586267047683687, Average Accuracy: 0.9279661016949152
+Fold:  5
+Epoch [0/500], Loss: 0.6398
+Epoch [50/500], Loss: 0.3196
+Epoch [100/500], Loss: 0.0547
+Epoch [150/500], Loss: 0.2814
+Epoch [200/500], Loss: 0.3000
+Epoch [250/500], Loss: 0.7044
+Epoch [300/500], Loss: 0.0579
+Epoch [350/500], Loss: 0.3120
+Epoch [400/500], Loss: 0.2328
+Epoch [450/500], Loss: 0.0926
+Average F1 Score: 0.6641109633557382, Average Accuracy: 0.9254385964912281

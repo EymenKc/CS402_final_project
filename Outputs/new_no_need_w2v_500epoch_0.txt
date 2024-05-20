@@ -1,0 +1,65 @@
+Batch Size: 16
+Learning Rate: 0.001
+Number of Epochs: 500
+Chosen Label: no-need
+Device: cuda
+Fold:  1
+Epoch [0/500], Loss: 0.6367
+Epoch [50/500], Loss: 0.0433
+Epoch [100/500], Loss: 0.0385
+Epoch [150/500], Loss: 0.0412
+Epoch [200/500], Loss: 0.0454
+Epoch [250/500], Loss: 0.0375
+Epoch [300/500], Loss: 0.0336
+Epoch [350/500], Loss: 0.0495
+Epoch [400/500], Loss: 0.0443
+Epoch [450/500], Loss: 0.0495
+Average F1 Score: 0.7158135729882115, Average Accuracy: 0.93973214285714299
+Fold:  2
+Epoch [0/500], Loss: 0.5883
+Epoch [50/500], Loss: 0.0409
+Epoch [100/500], Loss: 0.0348
+Epoch [150/500], Loss: 0.0402
+Epoch [200/500], Loss: 0.3757
+Epoch [250/500], Loss: 0.0335
+Epoch [300/500], Loss: 0.3431
+Epoch [350/500], Loss: 0.2662
+Epoch [400/500], Loss: 0.0278
+Epoch [450/500], Loss: 0.0660
+Average F1 Score: 0.6690616243858077, Average Accuracy: 0.9352401129943503     03
+Fold:  3
+Epoch [0/500], Loss: 0.6170
+Epoch [50/500], Loss: 0.2910
+Epoch [100/500], Loss: 0.0432
+Epoch [150/500], Loss: 0.0393
+Epoch [200/500], Loss: 0.2926
+Epoch [250/500], Loss: 0.2768
+Epoch [300/500], Loss: 0.0530
+Epoch [350/500], Loss: 0.0232
+Epoch [400/500], Loss: 0.0496
+Epoch [450/500], Loss: 0.0150
+Average F1 Score: 0.7481797452799718, Average Accuracy: 0.9407327586206896
+Fold:  4
+Epoch [0/500], Loss: 0.6215
+Epoch [50/500], Loss: 0.0437
+Epoch [100/500], Loss: 0.0519
+Epoch [150/500], Loss: 0.0497
+Epoch [200/500], Loss: 0.0700
+Epoch [250/500], Loss: 0.0332
+Epoch [300/500], Loss: 0.0376
+Epoch [350/500], Loss: 0.0289
+Epoch [400/500], Loss: 0.0331
+Epoch [450/500], Loss: 0.6729
+Average F1 Score: 0.8332057590668855, Average Accuracy: 0.9777542372881356
+Fold:  5
+Epoch [0/500], Loss: 0.6596
+Epoch [50/500], Loss: 0.0524
+Epoch [100/500], Loss: 0.0529
+Epoch [150/500], Loss: 0.0412
+Epoch [200/500], Loss: 0.0359
+Epoch [250/500], Loss: 0.3222
+Epoch [300/500], Loss: 0.0398
+Epoch [350/500], Loss: 0.0674
+Epoch [400/500], Loss: 0.0568
+Epoch [450/500], Loss: 0.1896
+Average F1 Score: 0.8545180154687797, Average Accuracy: 0.9802631578947368
